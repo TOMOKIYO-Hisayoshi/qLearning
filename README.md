@@ -11,3 +11,6 @@ ACTIO= (
         "LEFT_FACE",        #左向け左
         )
 ```
+
+ALL.txtは、すべて行動ができる場合の結果
+FORWARD_LEFT.txtは、「前に進め」と「左向け左」しかできない結果
